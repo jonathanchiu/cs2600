@@ -1,4 +1,4 @@
-MIPS
-====
+CS2600 Stuff
+============
 
-Just some stuff coded in MIPS Assembly. Mostly stuff from CS2600, taught by the fabulous Gene Cooperman.
+Just some stuff from CS2600 Computer Organization, which was taught by the fabulous Gene Cooperman.
